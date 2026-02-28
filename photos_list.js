@@ -1,6 +1,6 @@
 // Lista de fotos generada automáticamente
-// Total de fotos: 120
-// Generado: 2026-02-28 16:32:23
+// Total de fotos: 113
+// Generado: 2026-02-28 16:45:17
 
 const photos = [
     {
@@ -32,21 +32,6 @@ const photos = [
         "name": "DJI_20260228_103937_842",
         "path": "imagenes/DJI_20260228_103937_842.webp",
         "filename": "DJI_20260228_103937_842.webp"
-    },
-    {
-        "name": "DJI_20260228_105108_615",
-        "path": "imagenes/DJI_20260228_105108_615.webp",
-        "filename": "DJI_20260228_105108_615.webp"
-    },
-    {
-        "name": "DJI_20260228_105112_545",
-        "path": "imagenes/DJI_20260228_105112_545.webp",
-        "filename": "DJI_20260228_105112_545.webp"
-    },
-    {
-        "name": "DJI_20260228_105120_931",
-        "path": "imagenes/DJI_20260228_105120_931.webp",
-        "filename": "DJI_20260228_105120_931.webp"
     },
     {
         "name": "DJI_20260228_105257_214",
@@ -432,26 +417,6 @@ const photos = [
         "name": "DJI_20260228_113841_025",
         "path": "imagenes/DJI_20260228_113841_025.webp",
         "filename": "DJI_20260228_113841_025.webp"
-    },
-    {
-        "name": "DJI_20260228_113953_916",
-        "path": "imagenes/DJI_20260228_113953_916.webp",
-        "filename": "DJI_20260228_113953_916.webp"
-    },
-    {
-        "name": "DJI_20260228_114006_892",
-        "path": "imagenes/DJI_20260228_114006_892.webp",
-        "filename": "DJI_20260228_114006_892.webp"
-    },
-    {
-        "name": "DJI_20260228_114019_507",
-        "path": "imagenes/DJI_20260228_114019_507.webp",
-        "filename": "DJI_20260228_114019_507.webp"
-    },
-    {
-        "name": "DJI_20260228_114021_515",
-        "path": "imagenes/DJI_20260228_114021_515.webp",
-        "filename": "DJI_20260228_114021_515.webp"
     },
     {
         "name": "DJI_20260228_114138_872",
